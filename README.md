@@ -2,7 +2,7 @@
 
 ### With this app:
 * List your pets 
-* Understand how data are fetched from API Server
+* Understand how data is fetched from API Server
 
 ### Note:
 * Before running, please use your own Mock API url and replace it in your code
